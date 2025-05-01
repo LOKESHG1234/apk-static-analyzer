@@ -1,0 +1,15 @@
+# Python cache and logs
+__pycache__/
+*.pyc
+*.log
+
+# APK and report files
+*.apk
+*.json
+
+# Virtual environments (if using)
+venv/
+env/
+
+# OS-specific
+.DS_Store
